@@ -1,0 +1,11 @@
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\bin\Debug\net8.0\TerkepAdatok.deps.json
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\bin\Debug\net8.0\TerkepAdatok.dll
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\bin\Debug\net8.0\TerkepAdatok.pdb
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.AssemblyInfoInputs.cache
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.AssemblyInfo.cs
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.dll
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\refint\TerkepAdatok.dll
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\TerkepAdatok.pdb
+C:\Users\Márk\Desktop\.net\bpmap\TerkepAdatok\obj\Debug\net8.0\ref\TerkepAdatok.dll

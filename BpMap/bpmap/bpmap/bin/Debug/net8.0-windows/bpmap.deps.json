@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bpmap/1.0.0": {
+        "dependencies": {
+          "TerkepAdatok": "1.0.0"
+        },
+        "runtime": {
+          "bpmap.dll": {}
+        }
+      },
+      "TerkepAdatok/1.0.0": {
+        "runtime": {
+          "TerkepAdatok.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bpmap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TerkepAdatok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
